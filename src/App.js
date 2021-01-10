@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>My World</h1> 
+        <h1>Ritesh Karpenter</h1> 
         <p>
           This is my world
         </p>
@@ -14,6 +14,7 @@ function App() {
       </header>
     </div>
   );
+  
 }
 
 export default App;
